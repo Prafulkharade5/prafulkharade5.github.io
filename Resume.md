@@ -17,7 +17,7 @@ Hey! My name is **Prafulkumar**, and I am a Graduate in Electrical and Electroni
 Problem solving| **Time Management** |  
 |--|--|
 |**Java Programming**  |**Content writing**  |
-|  **Blogging**| **Video Editing**  |
+| **Blogging**| **Video Editing** |
 | **Team Work** | **Communication** |
 
 
