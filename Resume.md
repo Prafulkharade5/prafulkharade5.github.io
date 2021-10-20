@@ -65,8 +65,6 @@ CGPA- 6.92
 >Basel Mission English Medium High school, Dharwad 
 >2015
 
-You can open a file from **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Open from**. Once opened in the workspace, any modification in the file will be automatically synced.
-
 ## Languages known
 |English| Kannada |
 |--|--|
