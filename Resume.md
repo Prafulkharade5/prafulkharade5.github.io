@@ -8,7 +8,7 @@ Hey! My name is **Prafulkumar**, and I am a Graduate in Electrical and Electroni
 
 **Phone Number** 9538978591  
 **Email Address :** prafulkharade5@gmail.com  
-**LinkedIn :** @praful-kharade-98b4011ba 
+**LinkedIn :** @praful-kharade-98b4011ba
 **Address :** AECS Layout, ITPL Road, Bengaluru
 
 # Skills
